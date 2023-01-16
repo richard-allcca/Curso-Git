@@ -1,0 +1,41 @@
+
+pwd
+  => tu ubicacion
+
+cd .. 
+  => regresar una carpeta
+
+cd archivo/
+  => para entrar a un archivo 
+
+ls  
+  => lista los archivos d tu ubicacion
+
+ls nameArchivo
+  => lista los archivos de una ubicacion espefic
+
+ls nameArchivo/*.extencion
+  => lista los archivos de una ubicacion espefica que tengan la extencion...
+
+ls -al 
+  => ver todos los archivoso normales y ocultos con todos sus detalles
+
+mkdir nombreCarpeta
+  => crear carpeta
+
+touch nombreArchivo
+  => crear archivo
+
+cat nombreArchivo.extencion
+  => ver el contenido del archivo
+
+history
+  => para ver todos los comandos introducidos en bash
+
+!numeroDeComando
+  => para usar comandos de lista en history
+
+rm 
+  => para borrar archivos (ESTE COMANDO USALO SABIENDO DONDE STAS UBICADO)
+
+
